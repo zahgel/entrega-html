@@ -1,0 +1,58 @@
+body {background: #3F3D3D;
+margin:  0;
+padding: 0}
+
+.red
+   {position: absolute;
+    right:410px;
+    left:410px;
+    top:30px;
+    width: 400px;
+    height: 540px;
+    background-color: #A50722;}
+
+.orange
+{
+position: absolute;
+    right:410px;
+    left:430px;
+    top: 50px;
+width: 360px;
+height: 155px;
+background: #CE8315}
+
+.pink
+{position: absolute;
+    right:410px;
+    left:430px;
+    top: 290px;
+width: 360px;
+height: 260px;
+background: #CC4093}
+
+.white
+{
+position: absolute;
+    right:410px;
+    left:430px;
+    top: 216px;
+width: 360px;
+height: 72px;
+background: #FFFFFF}
+
+.black
+{
+position: absolute;
+    right:400px;
+    left:435px;
+    top: 205px;
+width: 350px;
+height: 11px;
+background: #000000}
+
+
+
+
+    
+
+

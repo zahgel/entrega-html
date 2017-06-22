@@ -1,0 +1,148 @@
+* {
+
+	padding: 0px;
+	margin:  0px;
+}
+
+.BOX1{
+
+	position: fixed;
+	background:#000000;
+	width: 1200px;
+	height: 800px;
+
+
+
+
+}
+
+.JEFE1 {
+
+position: absolute;
+background:#f4f4f2;
+justify-content: center;
+width:439px;
+height: 627px;
+left: 400px;
+top: 62px;
+bottom: 110px;
+
+
+}
+
+.JEFE2 {
+
+	position: absolute;
+	color: #000000;
+	width: 207px;
+	height: 238px;
+	top: 100px;
+	left:580px;
+	font-family: Times New Roman, Georgia, Serif;
+	font-size: 100px;
+	line-height: 80px;
+	font-weight: 300px;
+
+
+}
+
+.JEFE3 {
+
+	position: absolute;
+	color: #000000;
+	width: 207px;
+	height: 238px;
+	top: 200px;
+	left:580px;
+	font-family: Times New Roman, Georgia, Serif;
+	font-size: 100px;
+	line-height: 80px;
+	font-weight: 300px;
+
+	
+}
+
+.JEFE4 {
+
+	position: absolute;
+	color: #000000;
+	width: 300px;
+	height: 238px;
+	top: 300px;
+	left:480px;
+	font-family: Times New Roman, Georgia, Serif;
+	font-size: 100px;
+	line-height: 80px;
+	font-weight: 300px;
+	
+	
+}
+
+.JEFE5 {
+
+	position: absolute;
+	color: #000000;
+	width: 207px;
+	height: 238px;
+	top: 400px;
+	left:580px;
+	font-family: Times New Roman, Georgia, Serif;
+	font-size: 100px;
+	line-height: 80px;
+	font-weight: 300px;
+
+
+
+	
+}
+
+.JEFE6{
+
+	position: absolute;
+	color: #000000;
+	width: 207px;
+	height: 238px;
+	top: 500px;
+	left:580px;
+	font-family: Times New Roman, Georgia, Serif;
+	font-size: 100px;
+	line-height: 80px;
+	font-weight: 300px;
+	
+
+	
+}
+
+
+.JEFE7{
+
+	position: absolute;
+	color: #000000;
+	width: 207px;
+	height: 238px;
+	top: 600px;
+	left:650px;
+	font-family: Times New Roman, Georgia, Serif;
+	font-size: 30px;
+	line-height: 80px;
+	font-weight: 100px;
+
+	
+}
+
+.JEFE8{
+
+	position: absolute;
+	color: #000000;
+	width: 80px;
+	height: 80px;
+	top: 150px;
+	left:700px;
+	-moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: #000000;
+
+
+
+}

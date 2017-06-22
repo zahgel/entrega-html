@@ -1,0 +1,75 @@
+*{
+
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.body {
+
+    position: fixed;
+    background:#000000;
+    width: 1200px;
+    height: 800px;
+
+}
+
+.BOX{
+
+    position: absolute;
+    background:#f8b032;
+    justify-content: center;
+    width:439px;
+    height: 627px;
+    left: 400px;
+    top: 62px;
+    bottom: 110px;
+
+
+}
+
+
+.BOX2{
+
+    position: absolute;
+    background:#ffffff;
+    justify-content: center;
+    width:439px;
+    height: 120px;
+    left: 400px;
+    top: 62px;
+    bottom: 110px;
+
+
+}
+
+.WALL{
+
+
+    position: absolute;
+    color: #000000;
+    width: 439px;
+    height: 120px;
+    top: 70px;
+    left:420px;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 70px;
+    line-height: 100px;
+    font-weight: 900;
+}
+
+.caja1 {
+
+    position: absolute;
+    color: #000000;
+    width: 439px;
+    height: 120px;
+    top: 220px;
+    left:420px;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 120px;
+    line-height: 100px;
+    font-weight: 900;
+
+
+}
